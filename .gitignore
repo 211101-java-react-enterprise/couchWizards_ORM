@@ -1,0 +1,16 @@
+# IDE-specific files
+.idea/
+/.idea/
+*.iml
+
+# Compiled/Packaged files and directories
+out/
+target/
+/target/
+*.class
+*.jar
+
+# Properties files
+*.properties
+/.idea/
+/target/
