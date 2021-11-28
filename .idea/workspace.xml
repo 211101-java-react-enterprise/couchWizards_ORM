@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86f30738-4216-4fc5-aac7-3ac82c5e48bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/annotationTestDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cardorm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cardorm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/cwdriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/cwdriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/daos/CardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/daos/CardDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/daos/CrudDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/daos/CrudDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/logging/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/logging/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/models/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/models/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/services/CardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/services/CardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/util/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/util/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/web/servlets/DeleteCardServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/web/servlets/DeleteCardServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/web/servlets/InsertCardServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/web/servlets/InsertCardServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/web/servlets/ReadCardServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/web/servlets/ReadCardServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/web/servlets/TestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/web/servlets/TestServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/web/servlets/UpdateCardServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/web/servlets/UpdateCardServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/revature/couchwizard/web/util/ContextLoaderListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/java/com/revature/couchwizard/web/util/ContextLoaderListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/database-script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/resources/database-script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/resources/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/setupHelp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/resources/setupHelp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apiEndpoint/src/main/webapp/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21Yrt39Uy50foYrF1ljembKOgUO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86f30738-4216-4fc5-aac7-3ac82c5e48bf" name="Changes" comment="" />
+      <created>1638129074955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638129074955</updated>
+    </task>
+    <servers />
+  </component>
+</project>
