@@ -16,4 +16,5 @@ import java.lang.annotation.Target;
 
 public @interface Column {
     public String columnName() default "";
+    public boolean isStatic() default false;
 }
